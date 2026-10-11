@@ -1,0 +1,5 @@
+1,1,1,2026-05-01,09:00,Consultation,true
+2,2,2,2026-05-02,10:00,Consultation,false
+3,3,3,2026-05-03,11:00,Consultation,true
+4,4,4,2026-05-04,12:00,Consultation,false
+5,5,5,2026-05-05,13:00,Consultation,true
